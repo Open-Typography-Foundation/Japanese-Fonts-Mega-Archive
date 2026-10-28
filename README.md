@@ -1,9 +1,9 @@
-# 🇯🇵 日本語フォント メガアーカイブ | Japanese Typography Mega Archive
+# 🇯🇵 日本語フォント メガアーカイブ | Japanese Typography Mega Archive (143+ Fonts)
 ### World's Curated Open-Source Japanese Typography Mega Collection
 **Founder & Executive Director:** [Mohammad Golamrabbii](https://linktr.ee/golamrabbii) • [Open Typography Foundation](https://github.com/Open-Typography-Foundation)
 
 [![License: SIL OFL 1.1](https://img.shields.io/badge/License-SIL_OFL_1.1-blue.svg)](https://opensource.org/licenses/OFL-1.1)
-[![Total Typefaces](https://img.shields.io/badge/Total_Typefaces-100%25_Verified-gold.svg)](#)
+[![Total Typefaces](https://img.shields.io/badge/Total_Typefaces-143+_Verified-gold.svg)](#)
 [![Script](https://img.shields.io/badge/Scripts-Kanji_%7C_Hiragana_%7C_Katakana-critical.svg)](#)
 [![Live Web Previewer](https://img.shields.io/badge/Web_Previewer-Live_Specimen-10B981.svg?logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
 [![Archive.org](https://img.shields.io/badge/Archive.org-Permanent_Library-000000.svg?logo=internet-archive&logoColor=white)](https://archive.org/details/open-typography-foundation)
